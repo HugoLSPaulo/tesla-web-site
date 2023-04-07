@@ -1,16 +1,13 @@
 <template>
-  <div class="home">
-
-  </div>
+  <Promo/>
 </template>
 
 <script>
-// @ is an alias to /src
-
+  import Promo from '../components/Promo.vue'
 export default {
   name: 'HomeView',
   components: {
- 
+    Promo
   }
 }
 </script>
