@@ -2,7 +2,7 @@
   <div>
       <Promo/>
       <Specifications/>
-      </Interior>
+      <Interior/>
       <CoreSpecs/>
       <OrderNow/>
   </div>
