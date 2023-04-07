@@ -7,9 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.4.4",
     "core-js": "^3.8.3",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
+    "vuetify": "^2.6.0",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
@@ -17,11 +19,13 @@
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.8",
     "vue-template-compiler": "^2.6.14"
   },
   "browserslist": [
     "> 1%",
     "last 2 versions",
-    "not dead"
+    "not dead",
+    "not ie <= 10"
   ]
 }
