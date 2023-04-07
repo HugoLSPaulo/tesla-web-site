@@ -6,7 +6,7 @@
 		</v-toolbar-title>
 		<v-spacer></v-spacer>
 		<v-btn flat class="hiddem-sm-and-down white font-weight-bold black--text">Specifications</v-btn>
-		<v-btn class="hiddem-sm-and-down white font-weight-bold black--text ml-3">Specifications</v-btn>
+		<v-btn class="hiddem-sm-and-down white font-weight-bold black--text ml-3">Order Now</v-btn>
 	</v-toolbar>
 	</span>
 </template>
