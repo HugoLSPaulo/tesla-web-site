@@ -26,11 +26,6 @@
       </div>
   </div>
 </template>
-
-<script>
-
-</script>
-
 <style>
     .background {
         background: url('../../public/tesla-specs.jpeg');
