@@ -15,7 +15,3 @@
 <script>
 
 </script>
-
-<style>
-
-</style>
