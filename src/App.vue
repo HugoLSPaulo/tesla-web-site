@@ -15,7 +15,3 @@ import AppNavigation from './components/AppNavigation.vue'
   }
   }
 </script>
-<style>
-
-
-</style>
