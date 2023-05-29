@@ -10,8 +10,3 @@
 	</v-toolbar>
 	</span>
 </template>
-<script>
-	export default{
-
-	}
-</script>
