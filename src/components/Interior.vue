@@ -6,7 +6,3 @@
 <script>
 
 </script>
-
-<style>
-
-</style>
