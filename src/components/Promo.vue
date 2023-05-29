@@ -13,9 +13,6 @@
 	</v-container>
 </template>
 <script>
-	export default{
-
-	}
 </script>
 <style>
 	.promo{
