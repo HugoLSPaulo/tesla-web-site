@@ -7,7 +7,6 @@
       <OrderNow/>
   </div>
 </template>
-
 <script>
   import Promo from '../components/Promo.vue'
   import Specifications from '../components/Specifications.vue'
